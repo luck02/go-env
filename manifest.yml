@@ -1,7 +1,7 @@
 applications:
 - name: go-env
   memory: 32M
-  host: go-env
+  hostname: go-env
   path: .
   stackato:
     env:
